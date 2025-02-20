@@ -1,4 +1,4 @@
-👋 Hi, I’m Hassan Farhan-faahiz Adeoye (@farhanfaahiz)
+👋 Hi, I’m Hassan Farhan-faahiz Adeoye @farhanfaahiz
 💻 Django Developer | API Engineer | Backend Enthusiast
 
 I specialize in Django, Django REST Framework (DRF), and API development, building scalable, secure, and high-performing web applications. I enjoy working on backend logic, authentication systems, database optimization, and API integrations.
