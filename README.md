@@ -14,10 +14,12 @@ I specialize in Django, Django REST Framework (DRF), and API development, buildi
 Advanced Django & DRF techniques.
 API security and best practices.
 Scaling and deploying Django applications with PostgreSQL & cloud platforms.
+
 💞️ Looking to Collaborate On
 Django-based web apps and API projects.
 Open-source contributions in Python, Django, and REST APIs.
 Backend solutions that solve real-world problems.
+
 📫 How to Reach Me
 📧 Email: adeoyefarhanfaahiz@gmail.com
 <!---
